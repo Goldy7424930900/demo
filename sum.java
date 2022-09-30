@@ -1,3 +1,3 @@
 public class sum {
-    public static void main (fsf)
+    public static void main ("testttt")
 }
